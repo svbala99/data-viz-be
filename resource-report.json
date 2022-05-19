@@ -1,0 +1,2229 @@
+{
+  "1": {
+    "projectName": "Project_2",
+    "project_id": "1",
+    "users": {
+      "118": {
+        "uid": "118",
+        "name": "Resource_7",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 6
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "126": {
+        "uid": "126",
+        "name": "Resource_31",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 0.5
+          }
+        }
+      },
+      "318": {
+        "uid": "318",
+        "name": "Resource_43",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 34
+          }
+        }
+      },
+      "657": {
+        "uid": "657",
+        "name": "Resource_44",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 144
+          }
+        }
+      },
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 6.2
+          }
+        }
+      }
+    }
+  },
+  "17": {
+    "projectName": "Project_15",
+    "project_id": "17",
+    "users": {
+      "424": {
+        "uid": "424",
+        "name": "Resource_4",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 8
+          }
+        }
+      },
+      "559": {
+        "uid": "559",
+        "name": "Resource_27",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 23
+          }
+        }
+      },
+      "662": {
+        "uid": "662",
+        "name": "Resource_21",
+        "hours": {
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 24
+          }
+        }
+      },
+      "686": {
+        "uid": "686",
+        "name": "Resource_24",
+        "hours": {
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 133
+          }
+        }
+      },
+      "701": {
+        "uid": "701",
+        "name": "Resource_75",
+        "hours": {
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 30
+          }
+        }
+      },
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 16.5
+          }
+        }
+      },
+      "703": {
+        "uid": "703",
+        "name": "Resource_33",
+        "hours": {
+          "14": {
+            "taskid": "14",
+            "name": "Task Assignment",
+            "hour": 1
+          }
+        }
+      },
+      "705": {
+        "uid": "705",
+        "name": "Resource_14",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 11
+          }
+        }
+      },
+      "719": {
+        "uid": "719",
+        "name": "Resource_76",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 10.5
+          }
+        }
+      },
+      "723": {
+        "uid": "723",
+        "name": "Resource_16",
+        "hours": {
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 4
+          }
+        }
+      }
+    }
+  },
+  "18": {
+    "projectName": "Project_23",
+    "project_id": "18",
+    "users": {
+      "614": {
+        "uid": "614",
+        "name": "Resource_2",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 0.5
+          }
+        }
+      }
+    }
+  },
+  "24": {
+    "projectName": "Project_14",
+    "project_id": "24",
+    "users": {
+      "14": {
+        "uid": "14",
+        "name": "Resource_13",
+        "hours": {
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 4.25
+          },
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 20
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 2
+          }
+        }
+      },
+      "57": {
+        "uid": "57",
+        "name": "Resource_26",
+        "hours": {
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 30.5
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 16
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 22
+          },
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 1
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 0.5
+          }
+        }
+      },
+      "169": {
+        "uid": "169",
+        "name": "Resource_25",
+        "hours": {
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 0.75
+          }
+        }
+      },
+      "195": {
+        "uid": "195",
+        "name": "Resource_37",
+        "hours": {
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 2
+          },
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 0.5
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 12
+          }
+        }
+      },
+      "279": {
+        "uid": "279",
+        "name": "Resource_23",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "448": {
+        "uid": "448",
+        "name": "Resource_68",
+        "hours": {
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 13
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 16
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 14
+          }
+        }
+      },
+      "495": {
+        "uid": "495",
+        "name": "Resource_12",
+        "hours": {
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 40
+          },
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 0.3
+          }
+        }
+      },
+      "578": {
+        "uid": "578",
+        "name": "Resource_29",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 0.75
+          }
+        }
+      },
+      "596": {
+        "uid": "596",
+        "name": "Resource_61",
+        "hours": {
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 189
+          }
+        }
+      },
+      "614": {
+        "uid": "614",
+        "name": "Resource_2",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 0.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 0.75
+          }
+        }
+      },
+      "657": {
+        "uid": "657",
+        "name": "Resource_44",
+        "hours": {
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "672": {
+        "uid": "672",
+        "name": "Resource_39",
+        "hours": {
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 140.5
+          }
+        }
+      },
+      "716": {
+        "uid": "716",
+        "name": "Resource_77",
+        "hours": {
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 24
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 11
+          }
+        }
+      },
+      "718": {
+        "uid": "718",
+        "name": "Resource_1",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 5.5
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 2.5
+          }
+        }
+      },
+      "719": {
+        "uid": "719",
+        "name": "Resource_76",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 36.5
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 13.8
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 2
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "723": {
+        "uid": "723",
+        "name": "Resource_16",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 6
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 16
+          }
+        }
+      }
+    }
+  },
+  "28": {
+    "projectName": "Project_6",
+    "project_id": "28",
+    "users": {
+      "57": {
+        "uid": "57",
+        "name": "Resource_26",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 34
+          }
+        }
+      }
+    }
+  },
+  "32": {
+    "projectName": "Project_5",
+    "project_id": "32",
+    "users": {
+      "0": {
+        "uid": "0",
+        "name": "",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 3.5
+          }
+        }
+      },
+      "14": {
+        "uid": "14",
+        "name": "Resource_13",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 0.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 4.5
+          }
+        }
+      },
+      "52": {
+        "uid": "52",
+        "name": "Resource_22",
+        "hours": {
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 2
+          },
+          "14": {
+            "taskid": "14",
+            "name": "Task Assignment",
+            "hour": 1
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 5
+          }
+        }
+      },
+      "57": {
+        "uid": "57",
+        "name": "Resource_26",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 18
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 15.5
+          }
+        }
+      },
+      "126": {
+        "uid": "126",
+        "name": "Resource_31",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "166": {
+        "uid": "166",
+        "name": "Resource_15",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 13
+          }
+        }
+      },
+      "169": {
+        "uid": "169",
+        "name": "Resource_25",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 8
+          }
+        }
+      },
+      "275": {
+        "uid": "275",
+        "name": "Resource_8",
+        "hours": {
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 30
+          }
+        }
+      },
+      "424": {
+        "uid": "424",
+        "name": "Resource_4",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "448": {
+        "uid": "448",
+        "name": "Resource_68",
+        "hours": {
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 19
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 61.5
+          }
+        }
+      },
+      "495": {
+        "uid": "495",
+        "name": "Resource_12",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 3.5
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 30
+          },
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 0.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 3.5
+          }
+        }
+      },
+      "619": {
+        "uid": "619",
+        "name": "Resource_42",
+        "hours": {
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 16
+          }
+        }
+      },
+      "701": {
+        "uid": "701",
+        "name": "Resource_75",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 2.3
+          }
+        }
+      },
+      "705": {
+        "uid": "705",
+        "name": "Resource_14",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 2
+          }
+        }
+      },
+      "717": {
+        "uid": "717",
+        "name": "Resource_74",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 1
+          }
+        }
+      },
+      "718": {
+        "uid": "718",
+        "name": "Resource_1",
+        "hours": {
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 8
+          },
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 3.5
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 1
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 2.75
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 1.75
+          }
+        }
+      },
+      "723": {
+        "uid": "723",
+        "name": "Resource_16",
+        "hours": {
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 0.3
+          }
+        }
+      }
+    }
+  },
+  "61": {
+    "projectName": "Project_1",
+    "project_id": "61",
+    "users": {
+      "14": {
+        "uid": "14",
+        "name": "Resource_13",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 57.25
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 6.75
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 2
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 23
+          }
+        }
+      },
+      "102": {
+        "uid": "102",
+        "name": "Resource_41",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 4
+          }
+        }
+      },
+      "104": {
+        "uid": "104",
+        "name": "Mukesh Raj Natarajan",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 27
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 3
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "195": {
+        "uid": "195",
+        "name": "Resource_37",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 126
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 4
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 7.5
+          }
+        }
+      },
+      "318": {
+        "uid": "318",
+        "name": "Resource_43",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 54
+          }
+        }
+      },
+      "494": {
+        "uid": "494",
+        "name": "Resource_73",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 123
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 14.25
+          }
+        }
+      },
+      "662": {
+        "uid": "662",
+        "name": "Resource_21",
+        "hours": {
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 114
+          }
+        }
+      },
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 1
+          }
+        }
+      }
+    }
+  },
+  "64": {
+    "projectName": "Project_12",
+    "project_id": "64",
+    "users": {
+      "118": {
+        "uid": "118",
+        "name": "Resource_7",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 1
+          }
+        }
+      }
+    }
+  },
+  "90": {
+    "projectName": "Project_19",
+    "project_id": "90",
+    "users": {
+      "60": {
+        "uid": "60",
+        "name": "Resource_51",
+        "hours": {
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 68
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 6.5
+          }
+        }
+      },
+      "102": {
+        "uid": "102",
+        "name": "Resource_41",
+        "hours": {
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 123
+          }
+        }
+      },
+      "166": {
+        "uid": "166",
+        "name": "Resource_15",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 120.25
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 23.5
+          }
+        }
+      },
+      "201": {
+        "uid": "201",
+        "name": "Resource_35",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 162.05
+          }
+        }
+      },
+      "275": {
+        "uid": "275",
+        "name": "Resource_8",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 40
+          },
+          "98": {
+            "taskid": "98",
+            "name": "Data Warehouse",
+            "hour": 9
+          }
+        }
+      },
+      "279": {
+        "uid": "279",
+        "name": "Resource_23",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 2.5
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 15
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 105
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 33
+          }
+        }
+      },
+      "377": {
+        "uid": "377",
+        "name": "Resource_18",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 144
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 18
+          }
+        }
+      },
+      "458": {
+        "uid": "458",
+        "name": "Resource_5",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 65
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 24
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 24
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 51
+          }
+        }
+      },
+      "504": {
+        "uid": "504",
+        "name": "Resource_57",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 135
+          }
+        }
+      },
+      "585": {
+        "uid": "585",
+        "name": "Resource_10gururaja Alagarsamy",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 48
+          }
+        }
+      },
+      "588": {
+        "uid": "588",
+        "name": "Resource_36",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 116
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 19.5
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8.5
+          }
+        }
+      },
+      "619": {
+        "uid": "619",
+        "name": "Resource_42",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 108
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 23
+          }
+        }
+      },
+      "703": {
+        "uid": "703",
+        "name": "Resource_33",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 4
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 133
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 4
+          }
+        }
+      }
+    }
+  },
+  "99": {
+    "projectName": "Project_4",
+    "project_id": "99",
+    "users": {
+      "102": {
+        "uid": "102",
+        "name": "Resource_41",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 17
+          }
+        }
+      }
+    }
+  },
+  "121": {
+    "projectName": "Project_11",
+    "project_id": "121",
+    "users": {
+      "52": {
+        "uid": "52",
+        "name": "Resource_22",
+        "hours": {
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 4
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 45
+          }
+        }
+      },
+      "57": {
+        "uid": "57",
+        "name": "Resource_26",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 26.5
+          }
+        }
+      },
+      "118": {
+        "uid": "118",
+        "name": "Resource_7",
+        "hours": {
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "126": {
+        "uid": "126",
+        "name": "Resource_31",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 15
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 3.5
+          }
+        }
+      },
+      "424": {
+        "uid": "424",
+        "name": "Resource_4",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 5
+          }
+        }
+      },
+      "577": {
+        "uid": "577",
+        "name": "Resource_46",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 25
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "578": {
+        "uid": "578",
+        "name": "Resource_29",
+        "hours": {
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "693": {
+        "uid": "693",
+        "name": "Resource_72",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 5
+          }
+        }
+      },
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 40.45
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "705": {
+        "uid": "705",
+        "name": "Resource_14",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 3
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      }
+    }
+  },
+  "122": {
+    "projectName": "Project_10",
+    "project_id": "122",
+    "users": {
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 3
+          }
+        }
+      }
+    }
+  },
+  "123": {
+    "projectName": "Project_22",
+    "project_id": "123",
+    "users": {
+      "114": {
+        "uid": "114",
+        "name": "Resource_53",
+        "hours": {
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 0
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 0
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 113
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 10
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 5
+          }
+        }
+      },
+      "414": {
+        "uid": "414",
+        "name": "Resource_9",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 125
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 13
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "424": {
+        "uid": "424",
+        "name": "Resource_4",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 113
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 18
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 8
+          }
+        }
+      },
+      "453": {
+        "uid": "453",
+        "name": "Resource_10murugan Venkatesan",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 135.2
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 2
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 16.5
+          }
+        }
+      },
+      "483": {
+        "uid": "483",
+        "name": "Resource_30",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 8.5
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 1.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 4.35
+          }
+        }
+      },
+      "578": {
+        "uid": "578",
+        "name": "Resource_29",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 16
+          }
+        }
+      },
+      "579": {
+        "uid": "579",
+        "name": "Resource_40",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 89.75
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 2
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 29.25
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 11
+          },
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 8
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 10.5
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 4.75
+          }
+        }
+      },
+      "580": {
+        "uid": "580",
+        "name": "Resource_6",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 136.15
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 3
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 9.34
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "595": {
+        "uid": "595",
+        "name": "Resource_45",
+        "hours": {
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 109.5
+          }
+        }
+      },
+      "614": {
+        "uid": "614",
+        "name": "Resource_2",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 119.5
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 4
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 15.25
+          }
+        }
+      },
+      "688": {
+        "uid": "688",
+        "name": "Resource_32",
+        "hours": {
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 34.166
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 12.998
+          }
+        }
+      },
+      "693": {
+        "uid": "693",
+        "name": "Resource_72",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 16
+          }
+        }
+      },
+      "695": {
+        "uid": "695",
+        "name": "Resource_17",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 145
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 24
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "702": {
+        "uid": "702",
+        "name": "Resource_20",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 74
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          }
+        }
+      },
+      "712": {
+        "uid": "712",
+        "name": "Resource_71",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 40
+          },
+          "98": {
+            "taskid": "98",
+            "name": "Data Warehouse",
+            "hour": 64
+          }
+        }
+      }
+    }
+  },
+  "124": {
+    "projectName": "Project_21",
+    "project_id": "124",
+    "users": {
+      "126": {
+        "uid": "126",
+        "name": "Resource_31",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 115
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 1
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1.5
+          }
+        }
+      },
+      "483": {
+        "uid": "483",
+        "name": "Resource_30",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 105.5
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 6
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 5
+          }
+        }
+      },
+      "578": {
+        "uid": "578",
+        "name": "Resource_29",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 92.5
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 8
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 11.75
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 7
+          }
+        }
+      },
+      "595": {
+        "uid": "595",
+        "name": "Resource_45",
+        "hours": {
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 25
+          }
+        }
+      },
+      "614": {
+        "uid": "614",
+        "name": "Resource_2",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 0.25
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 4
+          }
+        }
+      },
+      "688": {
+        "uid": "688",
+        "name": "Resource_32",
+        "hours": {
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 77
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 16.331
+          }
+        }
+      }
+    }
+  },
+  "125": {
+    "projectName": "Project_9",
+    "project_id": "125",
+    "users": {
+      "195": {
+        "uid": "195",
+        "name": "Resource_37",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 1
+          }
+        }
+      }
+    }
+  },
+  "137": {
+    "projectName": "Project_7",
+    "project_id": "137",
+    "users": {
+      "57": {
+        "uid": "57",
+        "name": "Resource_26",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 45
+          }
+        }
+      },
+      "169": {
+        "uid": "169",
+        "name": "Resource_25",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 5
+          }
+        }
+      },
+      "495": {
+        "uid": "495",
+        "name": "Resource_12",
+        "hours": {
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 5
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 5
+          }
+        }
+      },
+      "559": {
+        "uid": "559",
+        "name": "Resource_27",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 15.5
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 7
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 45
+          },
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 0.5
+          }
+        }
+      },
+      "701": {
+        "uid": "701",
+        "name": "Resource_75",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 8
+          }
+        }
+      }
+    }
+  },
+  "138": {
+    "projectName": "Project_3",
+    "project_id": "138",
+    "users": {
+      "14": {
+        "uid": "14",
+        "name": "Resource_13",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 2.5
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 4.25
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 27.25
+          }
+        }
+      },
+      "52": {
+        "uid": "52",
+        "name": "Resource_22",
+        "hours": {
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 58
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          }
+        }
+      },
+      "72": {
+        "uid": "72",
+        "name": "Resource_10",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 13
+          }
+        }
+      },
+      "118": {
+        "uid": "118",
+        "name": "Resource_7",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 135
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 12.5
+          }
+        }
+      },
+      "577": {
+        "uid": "577",
+        "name": "Resource_46",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 70
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 16
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 29.95
+          }
+        }
+      },
+      "593": {
+        "uid": "593",
+        "name": "Resource_19",
+        "hours": {
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 152
+          }
+        }
+      },
+      "681": {
+        "uid": "681",
+        "name": "Resource_70",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 152
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          }
+        }
+      },
+      "718": {
+        "uid": "718",
+        "name": "Resource_1",
+        "hours": {
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 42
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 12
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 7
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 46.25
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "723": {
+        "uid": "723",
+        "name": "Resource_16",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 4.3
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 2
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 0.5
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 21.5
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 2.5
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 2
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 15.5
+          }
+        }
+      }
+    }
+  },
+  "139": {
+    "projectName": "Project_20",
+    "project_id": "139",
+    "users": {
+      "686": {
+        "uid": "686",
+        "name": "Resource_24",
+        "hours": {
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 32
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      },
+      "701": {
+        "uid": "701",
+        "name": "Resource_75",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 71
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 64
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "705": {
+        "uid": "705",
+        "name": "Resource_14",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 53
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 7
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 22
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 37
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 1
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 7
+          }
+        }
+      }
+    }
+  }
+}

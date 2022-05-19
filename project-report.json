@@ -1,0 +1,720 @@
+{
+  "1648751400": {
+    "data": {
+      "1": {
+        "projectName": "Project_2",
+        "project_id": "1",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 184.2
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 6
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 0.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "17": {
+        "projectName": "Project_15",
+        "project_id": "17",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 11
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 24
+          },
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 58
+          },
+          "14": {
+            "taskid": "14",
+            "name": "Task Assignment",
+            "hour": 1
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 4
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 163
+          }
+        }
+      },
+      "18": {
+        "projectName": "Project_23",
+        "project_id": "18",
+        "hours": {
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 0.5
+          }
+        }
+      },
+      "24": {
+        "projectName": "Project_14",
+        "project_id": "24",
+        "hours": {
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 2
+          },
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 36.5
+          },
+          "25": {
+            "taskid": "25",
+            "name": "Recruiting / Followup",
+            "hour": 437
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 24.8
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 28
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 20.5
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 36
+          },
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 6.8
+          },
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 20
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 0.75
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 48.25
+          }
+        }
+      },
+      "28": {
+        "projectName": "Project_6",
+        "project_id": "28",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 34
+          }
+        }
+      },
+      "32": {
+        "projectName": "Project_5",
+        "project_id": "32",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 2.3
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 8
+          },
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 15
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 3
+          },
+          "14": {
+            "taskid": "14",
+            "name": "Task Assignment",
+            "hour": 1
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 5
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 20
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 49
+          },
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 46.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 7.55
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 118.25
+          }
+        }
+      },
+      "61": {
+        "projectName": "Project_1",
+        "project_id": "61",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 388.25
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 114
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 48
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 20
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 3
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 6.75
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 2
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 4
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 45.75
+          }
+        }
+      },
+      "64": {
+        "projectName": "Project_12",
+        "project_id": "64",
+        "hours": {
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 1
+          }
+        }
+      },
+      "90": {
+        "projectName": "Project_19",
+        "project_id": "90",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 809.8
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 201
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 56
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 54
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 123
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 186
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 5
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 15
+          },
+          "98": {
+            "taskid": "98",
+            "name": "Data Warehouse",
+            "hour": 9
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 105
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 105.5
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8.5
+          }
+        }
+      },
+      "99": {
+        "projectName": "Project_4",
+        "project_id": "99",
+        "hours": {
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 17
+          }
+        }
+      },
+      "121": {
+        "projectName": "Project_11",
+        "project_id": "121",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 85.45
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 4
+          },
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 3
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 45
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 5
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 30
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 9
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 24
+          }
+        }
+      },
+      "122": {
+        "projectName": "Project_10",
+        "project_id": "122",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 3
+          }
+        }
+      },
+      "123": {
+        "projectName": "Project_22",
+        "project_id": "123",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 962.1
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 34.166
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 72
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 37
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 109.5
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 8
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 103.25
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 19
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 1.5
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 117
+          },
+          "98": {
+            "taskid": "98",
+            "name": "Data Warehouse",
+            "hour": 64
+          },
+          "127": {
+            "taskid": "127",
+            "name": "GPTW",
+            "hour": 8
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 78.938
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 33.75
+          }
+        }
+      },
+      "124": {
+        "projectName": "Project_21",
+        "project_id": "124",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 313.25
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 77
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 16
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 25
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 11.75
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 6
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 1
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 33.831
+          }
+        }
+      },
+      "125": {
+        "projectName": "Project_9",
+        "project_id": "125",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 1
+          }
+        }
+      },
+      "137": {
+        "projectName": "Project_7",
+        "project_id": "137",
+        "hours": {
+          "11": {
+            "taskid": "11",
+            "name": "Non-billable (Idle time if there are no assigned project task also not worked on any other relevant tasks like Project_15 etc.,)",
+            "hour": 5
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 23.5
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 7
+          },
+          "79": {
+            "taskid": "79",
+            "name": "Support",
+            "hour": 90
+          },
+          "126": {
+            "taskid": "126",
+            "name": "Interview",
+            "hour": 0.5
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 5
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 5
+          }
+        }
+      },
+      "138": {
+        "projectName": "Project_3",
+        "project_id": "138",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 228.8
+          },
+          "6": {
+            "taskid": "6",
+            "name": "QA - Testing",
+            "hour": 154
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 48
+          },
+          "10": {
+            "taskid": "10",
+            "name": "Leave",
+            "hour": 16
+          },
+          "13": {
+            "taskid": "13",
+            "name": "Project Management",
+            "hour": 100.5
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 148
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 14
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 32.75
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 2.5
+          },
+          "100": {
+            "taskid": "100",
+            "name": "Management & Coordination",
+            "hour": 2
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 131.45
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 1
+          }
+        }
+      },
+      "139": {
+        "projectName": "Project_20",
+        "project_id": "139",
+        "hours": {
+          "5": {
+            "taskid": "5",
+            "name": "Development",
+            "hour": 53
+          },
+          "9": {
+            "taskid": "9",
+            "name": "Holiday (All declared holidays (except ones fall on week end) to be logged with standard 8 Hrs)",
+            "hour": 16
+          },
+          "27": {
+            "taskid": "27",
+            "name": "Infrastructure",
+            "hour": 78
+          },
+          "33": {
+            "taskid": "33",
+            "name": "Knowledge Transfer",
+            "hour": 1
+          },
+          "34": {
+            "taskid": "34",
+            "name": "Documentation",
+            "hour": 22
+          },
+          "57": {
+            "taskid": "57",
+            "name": "R & D",
+            "hour": 133
+          },
+          "59": {
+            "taskid": "59",
+            "name": "Tech Help",
+            "hour": 1
+          },
+          "130": {
+            "taskid": "130",
+            "name": "Meeting (Project - any meeting client or internal related to the current project(s))",
+            "hour": 8
+          },
+          "131": {
+            "taskid": "131",
+            "name": "Meeting (General - any meeting NOT related to the current project(s))",
+            "hour": 8
+          }
+        }
+      }
+    },
+    "date": "2022-04-01 00:00:00"
+  }
+}
